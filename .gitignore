@@ -1,2 +1,4 @@
 .DS_Store
 test_feature/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
