@@ -3,3 +3,7 @@ test_feature/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 __pycache__/
+*.npy
+*.npz
+*.pkl
+
